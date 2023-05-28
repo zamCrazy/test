@@ -25,7 +25,7 @@ public class LogsTest {
 
 		// 记录debug级别的信息
 
-		logger.debug("This is debug message.sensensen");
+		logger.debug("This is debug message.sensen");
 
 		// 记录info级别的信息
 
