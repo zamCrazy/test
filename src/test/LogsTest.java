@@ -9,7 +9,6 @@ import org.apache.log4j.Logger;
  * @2020年4月18日
  * 
  */
-
 public class LogsTest {
 
 	private static Logger logger = Logger.getLogger(LogsTest.class);
@@ -26,7 +25,7 @@ public class LogsTest {
 
 		// 记录debug级别的信息
 
-		logger.debug("This is debug message.");
+		logger.debug("This is debug message.sensensen");
 
 		// 记录info级别的信息
 
